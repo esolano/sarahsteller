@@ -1,0 +1,12 @@
+uuid: d61da2b7-21d2-4030-b3e3-0d6cba77db1a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - estebansp@gmail.com
+reply: ''
+weight: 0

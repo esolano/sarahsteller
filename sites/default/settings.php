@@ -712,7 +712,7 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['install_profile'] = 'standard';
-$config_directories['sync'] = 'sites/default/files/config_YE-59HsneS-alORuD07Prv5lIkRNYZJCWxjMRL0QNdrUbD-mAQOa2YEXytqepUZyFqEgK1ZnIg/sync';
+$config_directories['sync'] = 'sites/default/custom-sync';
 
 /**
  * Load local development override configuration, if available.
