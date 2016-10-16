@@ -1,0 +1,13 @@
+name: Script Junkie
+type: module
+description: Allows you to easily add scripts or tracking code from the administration interface to the bottom of your site's pages.
+# core: 8.x
+package: Other
+
+configure: scriptjunkie.settings
+
+# Information added by Drupal.org packaging script on 2016-10-13
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'scriptjunkie'
+datestamp: 1476401940
